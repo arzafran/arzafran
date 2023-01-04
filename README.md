@@ -1,5 +1,5 @@
-- 🌱 I’m currently learning to develop things besides software.
-- 💬 Ask me about Next.js, WebGL, CSS, r3f, react-spring, GSAP, and Lenis
+- 🌱 I’m currently learning to develop stuff besides software.
+- 💬 Ask me about Next.js, react, WebGL, CSS, r3f, react-spring, GSAP, and Lenis, but also ask me about my day and if I had lunch.
 - 📫 How to reach me: franco@studiofreight.com
 
 - ⚡ Fun fact: I don't eat pointy fries.
